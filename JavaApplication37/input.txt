@@ -1,0 +1,11 @@
+class C{}
+
+class A extends C{
+
+C c=new A();
+
+
+
+}
+
+
